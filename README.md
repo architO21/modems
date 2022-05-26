@@ -30,4 +30,7 @@ Books really are your best friends as you can rely on them when you are bored, u
  </p>
 <br>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 039f9d188b29d18fb0d59f24308ebdd7d57dda9a
